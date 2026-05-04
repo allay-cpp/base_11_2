@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LeaveDynamicLibrary/LeaveDynamicLibrary.vcxproj" Id="188e432f-cc18-4cc2-a1c3-bbaa2c5e05e5" />
+</Solution>

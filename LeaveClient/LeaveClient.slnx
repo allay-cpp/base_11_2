@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LeaveClient/LeaveClient.vcxproj" Id="df38874d-57d2-4d42-bd8c-5db22ca17cc5" />
+</Solution>
